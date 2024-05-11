@@ -10,7 +10,7 @@ Design: To create UI sketches and flowcharts, use Draw.io.
 
 Using these technologies and following software engineering best practices, I was able to create an Online Store application that satisfies modern consumer needs while also conforming to moral standards and Christian beliefs.
 
-Below I've included a few UI Screenshots of my application.
+Below I've included a few user interface screenshots of my application.
 
 **Home Page UI**
 ![Home](https://github.com/mmarian0143/OnlineStoreApp/assets/82545182/50fc78dc-c869-4b45-a651-0bccbf3478ea)
