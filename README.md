@@ -16,7 +16,7 @@ Below I've included a few UI Screenshots of my application.
 ![ProductsScreen](https://github.com/mmarian0143/OnlineStoreApp/assets/82545182/81e21797-6d74-40b9-8109-0d5f1bcb9f78)
 
 **Cart UI**
-Orders History UI![CartUI](https://github.com/mmarian0143/OnlineStoreApp/assets/82545182/34bfb400-e745-4799-a0ca-9d7843d05e07)
+![CartUI](https://github.com/mmarian0143/OnlineStoreApp/assets/82545182/34bfb400-e745-4799-a0ca-9d7843d05e07)
 
 **Order History Page UI**
 ![CartScreen](https://github.com/mmarian0143/OnlineStoreApp/assets/82545182/095279b4-e0c5-42a2-b9a5-ad689f9155b7)
