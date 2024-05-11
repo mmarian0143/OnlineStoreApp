@@ -6,7 +6,7 @@ Database: SQL programming for Microsoft
 
 Software: Inductive Automation's Ignition Platform
 
-Design: UI sketches and flowcharts were built Draw.io.
+Design: UI sketches and flowcharts were built utilizing Draw.io.
 
 Using these technologies and following software engineering best practices, I was able to create an Online Store application that satisfies modern consumer needs while also conforming to moral standards and Christian beliefs.
 
