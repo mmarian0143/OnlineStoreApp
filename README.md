@@ -1,4 +1,4 @@
-# OnlineStoreApp
+# Online Store Application
 
 As part of my Senior Capstone project at Grand Canyon University, I developed an online store application with the goal of transforming the e-commerce market by giving customers a simple and easy way to shop. I used a range of tools and technologies to realize this idea by utilizing my software development expertise. Important tools used in the process of development are:
 
